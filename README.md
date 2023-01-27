@@ -1,4 +1,4 @@
 # Remote
 my first remote repository
 
-new line
+edited in developed branch
